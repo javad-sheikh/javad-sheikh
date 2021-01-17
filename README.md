@@ -3,7 +3,7 @@ I'm Javad Sheikh and this is my github. I have learned python for data science p
 
 
 
-###📫 How to reach me:
+### 📫 Reach me:
 
 Email me at: mailto:javad2n@yahoo.com
 
