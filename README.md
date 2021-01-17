@@ -5,7 +5,7 @@ I'm Javad Sheikh and this is my github. I have learned python for data science p
 
 ### 📫 Reach me:
 
-Email me at: mailto:javad2n@yahoo.com
+Email me at: javad2n@yahoo.com
 
 Or contact me at: https://t.me/javad_sh_73
 
