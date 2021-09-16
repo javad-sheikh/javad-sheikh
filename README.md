@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Javad Sheikh and this is my github. I have learned python for data science projects. I also have been working as an android developer using Java. I have combined my passion for AI in android software development. I have made several AI-powered android apps.
+I'm Javad Sheikh, and this is my Github account. I have mastered python, and I am currently working on computer vision and deep learning in medical imaging. I also have experience working as an android developer using Java. I have combined my passion for AI in android software development and made some AI-powered android apps.
 
 
 
