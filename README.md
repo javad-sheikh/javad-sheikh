@@ -15,6 +15,8 @@ https://javadsheikh.ir
 
 https://javad-sheikh.github.io/#
 
+![Mobile OCR](https://javad-sheikh.github.io/assets/img/card_scanner.gif)
+
 <!--
 **javad-sheikh/javad-sheikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
