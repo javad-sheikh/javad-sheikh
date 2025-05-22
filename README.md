@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Javad Sheikh, and this is my Github account. I have mastered python, and I am currently working on computer vision and deep learning in medical imaging. I also have experience working as an android developer using Java. I have combined my passion for AI in android software development and made some AI-powered android apps.
+I'm Javad Sheikh, and this is my GitHub account. I am currently working on computer vision and deep learning for maritime and mining applications, including sea ice segmentation using satellite data and mineral prospectivity mapping with advanced machine learning methods. My expertise also spans AI model deployment on mobile platforms and geospatial data processing. Explore my repositories to see projects on deep learning pipelines, remote sensing, and AI-powered Android apps.
 
 
 
