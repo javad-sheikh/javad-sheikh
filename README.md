@@ -5,9 +5,9 @@ I'm Javad Sheikh, and this is my GitHub account. I am currently working on compu
 
 ### 📫 Reach me:
 
-Email me at: javad2n@yahoo.com
+Email me at: javad.sheikh@utu.fi
 
-Or contact me at: https://t.me/javad_sh_73
+Or contact me at: https://t.me/javad2n
 
 Get more info at: 
 
